@@ -47,5 +47,5 @@ frontend jacques-frontend-https
 
 backend jacques-backend
         balance roundrobin
-        server 6238-web-01 54.196.216.8:80 check
-        server 6238-web-02 98.80.15.59:80 check
+        server 6242-web-01 3.80.102.83 check
+        server 6242-web-02 3.90.35.137 check
